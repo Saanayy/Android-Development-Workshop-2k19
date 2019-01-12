@@ -16,13 +16,13 @@ Play for a least of 4 rounds and decide the winner. **[100 points]**
 
 2. Display the name and score of both parties on the screen everytime. **[50 points]**
 
-3. Display the winner in a Dialog box. **[30 points] **
+3. Display the winner in a Dialog box. **[30 points]**
 
-4. Make the app fixed in portrait mode. The app should not rotate on rotating screens. **[10 points] **
+4. Make the app fixed in portrait mode. The app should not rotate on rotating screens. **[10 points]**
 
 5. Let the user decide the number of boxes that appear on the screen. Please note that the basic workflow will contain 4 boxes by default, but if you are able to implement this feature, you get extra scores. **[100 points]**
 
-6. Let ash and pickachu decide their colors.Again note that the basic workflow will contain blue and yellow color for ash and pickachu by default, but if you are able to implement this feature, you get extra scores.** [100 points]**
+6. Let ash and pickachu decide their colors.Again note that the basic workflow will contain blue and yellow color for ash and pickachu by default, but if you are able to implement this feature, you get extra scores. **[100 points]**
 
 7. Show the player who's turn it is the next. Suppose pickachu has to play next so somewhere on screen display next turn, pickachu.
 **[50 points]**
