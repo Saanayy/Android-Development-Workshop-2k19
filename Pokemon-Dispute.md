@@ -1,11 +1,4 @@
----
-title: Pokemon Dispute
-layout: post
-author: sanay.nitjsr
-permalink: /weekendHackathon/pokemon-dispute/
-source-id: 1HPIYOcXciujc3zxzFQuEHrqZn11E6o2VRz_N_gMM1bk
-published: true
----
+
 As you know pickachu and ash have been very good mates, they always go along well, but this one time, it looks as if they are having a dispute about who is more talented in make proper choices. 
 
 Then misty comes, and looks at the two best friends, fighting. She decides to settle the dispute using a game. But in this era of such technological advancements she finds herself in a difficulty.
@@ -40,11 +33,11 @@ Play for a least of 4 rounds and decide the winner. **[100 points]**
 
 10. Disable the next round button until all scores of the current round have been revealed. **[30 points]**
 
-**Note: **Your project will be eligible for evaluation only when it completes the basic workflow.
+**Note: ** Your project will be eligible for evaluation only when it completes the basic workflow.
 
  
 
-**Hint1: **Make the toss and game features on different activities and you can send the data from one activity to the other using setExtras() and getExtras().
+**Hint1: ** Make the toss and game features on different activities and you can send the data from one activity to the other using setExtras() and getExtras().
 
 Google it for detailed explanations.
 
